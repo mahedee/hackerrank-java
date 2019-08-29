@@ -11,13 +11,17 @@ class Solution{
             int b = in.nextInt();
             int n = in.nextInt();
             
-            int value = 0;
+            int value = a;
             for(int j = 0; j < n; j++) {
             	
-            	value = value + a + (int)Math.pow(2, j) * b; 
+            	value = value + (int)Math.pow(2, j) * b; 
+            	System.out.print(value + " ");
             	
-            	System.out.print(value + "  ");
             }
+            
+            // No new line after last line
+            if(i < t - 1)
+                System.out.println();
         }
         
 
