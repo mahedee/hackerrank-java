@@ -1,0 +1,11 @@
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\bin\Debug\netcoreapp2.2\HighestPalindrome.deps.json
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\bin\Debug\netcoreapp2.2\HighestPalindrome.runtimeconfig.json
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\bin\Debug\netcoreapp2.2\HighestPalindrome.runtimeconfig.dev.json
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\bin\Debug\netcoreapp2.2\HighestPalindrome.dll
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\bin\Debug\netcoreapp2.2\HighestPalindrome.pdb
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\obj\Debug\netcoreapp2.2\HighestPalindrome.csprojAssemblyReference.cache
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\obj\Debug\netcoreapp2.2\HighestPalindrome.csproj.CoreCompileInputs.cache
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\obj\Debug\netcoreapp2.2\HighestPalindrome.AssemblyInfoInputs.cache
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\obj\Debug\netcoreapp2.2\HighestPalindrome.AssemblyInfo.cs
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\obj\Debug\netcoreapp2.2\HighestPalindrome.dll
+D:\Projects\Github\hackerrank-java\HighestPalindrome\HighestPalindrome\obj\Debug\netcoreapp2.2\HighestPalindrome.pdb
