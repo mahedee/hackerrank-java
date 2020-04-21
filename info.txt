@@ -1,1 +1,1 @@
-infofile
+test it
